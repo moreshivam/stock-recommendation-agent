@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langgraph
+langchain-mcp-adapters
+langchain-groq
+langgraph_supervisor
+yfinance
+feedparser
+truststore
